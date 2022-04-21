@@ -13,4 +13,7 @@ Daftar Package
 - Video-AV
 
 Cara Menginstall Aplikasi 
--
+- Download file apk
+- kemudian klik dan lakukan installasi seperti biasa
+
+
